@@ -4,13 +4,17 @@ Diagnostika iPhonů a iPadů pro Windows 10 / 11 (64bit) – **https://isupply-s
 
 ## 1. Ovladač Apple (povinné)
 
-Bez něj Windows iPhone přes USB neuvidí. Je zdarma a přímo od Applu, stačí jedno z toho:
+Bez něj Windows iPhone přes USB neuvidí. Je to jen samotný USB ovladač od Applu
+(Apple Mobile Device Support), nic dalšího se neinstaluje.
 
-- [iTunes pro Windows](https://www.apple.com/itunes/download/win64) – přímé stažení z apple.com
-- [Apple Devices](https://apps.microsoft.com/detail/9np83lwlpz9k) z Microsoft Store
+[**⬇ AppleMobileDeviceSupport64.msi** – ovladač Apple pro USB](https://isupply-scan.cz/ovladac-apple)
 
-Máš-li iTunes nebo Apple Devices už nainstalované, tenhle krok přeskoč. Když ovladač chybí,
-iSupply Scan ho umí při prvním spuštění stáhnout od Applu i sám.
+Spusť ho, potvrď oprávnění správce a pak iPhone odpoj a znovu připoj.
+Máš-li na počítači iTunes nebo Apple Devices, ovladač už v nich je – tenhle krok přeskoč.
+Když ovladač chybí, iSupply Scan ho při prvním spuštění nainstaluje i sám.
+
+- Verze: Apple Mobile Device Support 19.4.0.10, podepsáno Apple Inc.
+- SHA-256: `b60533fb54e7bd81ffc52d99678a9cce04e58cb54a76281bd7b1309f20d360e9`
 
 ## 2. iSupply Scan
 
@@ -24,7 +28,7 @@ Podpora: +420 703 125 125 (po–pá 9–19) · info@isupply.cz
 
 ---
 
-*English:* install Apple's free USB driver first ([iTunes](https://www.apple.com/itunes/download/win64)
-or [Apple Devices](https://apps.microsoft.com/detail/9np83lwlpz9k)), then download
-[iSupply.Scan.exe](https://github.com/Bot-owner/isupply-scan-download/releases/latest/download/iSupply.Scan.exe)
+*English:* first install Apple's USB driver
+([AppleMobileDeviceSupport64.msi](https://isupply-scan.cz/ovladac-apple) – the driver only, nothing else),
+then download [iSupply.Scan.exe](https://github.com/Bot-owner/isupply-scan-download/releases/latest/download/iSupply.Scan.exe)
 and activate it with your licence key.
