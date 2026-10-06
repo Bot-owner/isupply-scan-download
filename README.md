@@ -10,7 +10,7 @@ Bez něj Windows iPhone přes USB neuvidí. Je to jen samotný USB ovladač od A
 [**⬇ AppleMobileDeviceSupport64.msi** – ovladač Apple pro USB](https://isupply-scan.cz/ovladac-apple)
 
 Spusť ho, potvrď oprávnění správce a pak iPhone odpoj a znovu připoj.
-Máš-li na počítači iTunes nebo Apple Devices, ovladač už v nich je – tenhle krok přeskoč.
+Máš-li ovladač už nainstalovaný, tenhle krok přeskoč.
 Když ovladač chybí, iSupply Scan ho při prvním spuštění nainstaluje i sám.
 
 - Verze: Apple Mobile Device Support 19.4.0.10, podepsáno Apple Inc.
