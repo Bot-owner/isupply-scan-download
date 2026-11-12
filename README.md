@@ -14,7 +14,7 @@ Jeden soubor, ve kterém je všechno včetně USB ovladače Apple – nic dalš�
 
 ## iSupply Scan pro macOS (Beta)
 
-[**⬇ iSupply.Scan.dmg** – beta pro Macy s Apple Silicon](https://github.com/Bot-owner/isupply-scan-download/raw/macos-beta/iSupply.Scan.dmg) · macOS 15 nebo novější
+[**⬇ iSupply.Scan.dmg** – beta pro Macy s Apple Silicon](https://github.com/Bot-owner/isupply-scan-download/releases/latest/download/iSupply.Scan.dmg) · macOS 15 nebo novější
 
 1. Otevři `.dmg` a přetáhni **iSupply Scan** do Aplikací.
 2. Beta zatím není podepsaná u Applu, proto ji macOS napoprvé zablokuje: klikni na **Hotovo**, otevři
@@ -27,7 +27,7 @@ Jeden soubor, ve kterém je všechno včetně USB ovladače Apple – nic dalš�
 Samostatný program bez přihlášení a bez licenčního klíče: nahrání iOS (Restore / Retain data), recovery
 a DFU mód, firmware, záloha, export fotek a videí, aplikace, profily, aktivace. Telefony netestuje.
 
-[**iSupply.Scan.Free.dmg** – beta pro Macy s Apple Silicon](https://github.com/Bot-owner/isupply-scan-download/raw/free-beta/iSupply.Scan.Free.dmg) · macOS 15 nebo novější
+[**iSupply.Scan.Free.dmg** – beta pro Macy s Apple Silicon](https://github.com/Bot-owner/isupply-scan-download/releases/download/v2026.11.10/iSupply.Scan.Free.dmg) · macOS 15 nebo novější
 
 [**iSupply.Scan.Free.exe** – Windows 10 / 11](https://github.com/Bot-owner/isupply-scan-download/releases/download/v2026.11.10/iSupply.Scan.Free.exe) · jeden soubor včetně ovladače Apple
 
@@ -39,5 +39,5 @@ Podpora: +420 703 125 125 (po–pá 9–19) · info@isupply.cz
 a single file with everything inside, Apple's USB driver included. On first launch the app installs the driver
 itself if the PC doesn't have it (confirm the administrator prompt), then activate it with your licence key.
 
-*macOS (beta, Apple Silicon, macOS 15+):* download [iSupply.Scan.dmg](https://github.com/Bot-owner/isupply-scan-download/raw/macos-beta/iSupply.Scan.dmg),
+*macOS (beta, Apple Silicon, macOS 15+):* download [iSupply.Scan.dmg](https://github.com/Bot-owner/isupply-scan-download/releases/latest/download/iSupply.Scan.dmg),
 drag the app to Applications and allow the first launch in System Settings → Privacy & Security → Open Anyway.
