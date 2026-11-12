@@ -22,15 +22,6 @@ Jeden soubor, ve kterém je všechno včetně USB ovladače Apple – nic dalš�
    **Přesto otevřít**. Příště už se macOS neptá.
 3. Aktivuj licenci a připoj iPhone. Nic dalšího se neinstaluje – služba Apple pro iPhony je součást macOS.
 
-## iSupply Scan Free (bez testování, zdarma)
-
-Samostatný program bez přihlášení a bez licenčního klíče: nahrání iOS (Restore / Retain data), recovery
-a DFU mód, firmware, záloha, export fotek a videí, aplikace, profily, aktivace. Telefony netestuje.
-
-[**iSupply.Scan.Free.dmg** – beta pro Macy s Apple Silicon](https://github.com/Bot-owner/isupply-scan-download/releases/download/v2026.11.10/iSupply.Scan.Free.dmg) · macOS 15 nebo novější
-
-[**iSupply.Scan.Free.exe** – Windows 10 / 11](https://github.com/Bot-owner/isupply-scan-download/releases/download/v2026.11.10/iSupply.Scan.Free.exe) · jeden soubor včetně ovladače Apple
-
 Podpora: +420 703 125 125 (po–pá 9–19) · info@isupply.cz
 
 ---
